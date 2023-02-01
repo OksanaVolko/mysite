@@ -8,4 +8,4 @@
 
 * Люблю собак
   
-<image src="/C:\Users\Oksana\Pictures\Saved Pictures\IMG_20220918_092056_893.jpg" alt=myfoto>
+![IMG_20220918_092056_893](https://user-images.githubusercontent.com/123868330/215989340-afe43c82-6147-4e81-8201-2f619fc6641e.jpg)
